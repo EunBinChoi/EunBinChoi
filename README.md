@@ -14,17 +14,14 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img alt="C" src ="https://img.shields.io/badge/C-00599C?&style=flat-square&logo=C&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=C&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=HTML5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=CSS3&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+
 
 
 

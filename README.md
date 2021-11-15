@@ -1,4 +1,4 @@
-#### Hi there! 🖐 I am Eunbin Choi (also called by echoiing) 💛
+### Hi there! 🖐 I am Eunbin Choi (also called by echoiing) 💛
 - 👨‍💻 I'm currently developing on simulation program to predict the structure of ship based on CNN.
 - 👨‍💻 I'm currently developing natural language algorithm to detect the sentiment of sentences.
 - 👨‍🏫 I'm currently teaching Java, SQL, HTML/CSS, JS, JSP/Servlet, Spring, Python.

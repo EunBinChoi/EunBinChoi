@@ -1,7 +1,7 @@
 ### Hi there! 🖐 I am Eunbin Choi (also called by echoiing 💛) 
 - 👨‍💻 I'm currently studying on the neural network for images.
 - 👨‍🏫 I'm currently teaching Java, SQL, HTML/CSS, JS, JSP/Servlet, Spring, Python.
-- 🥈 I'm majored in computer vision & image processing and developed the algorithm for mapping 2D images to 3D images using drone-projector system. (paper: https://drive.google.com/file/d/1qXox6GpSvR-LvTYYBrsfzgkuTNLBtAkJ/view?usp=sharing) 
+- 🥈 I'm majored in computer vision & image processing and developed the algorithm for mapping 2D images to 3D images using drone-projector system.
 - 🏆 I published 7 papers (5 for domestic conference, 2 for international conference).
 - 🏆 I registered 1 patent and 2 software licenses. 
 - 💬 Email: qwertyuiop7823@gmail.com

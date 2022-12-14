@@ -1,4 +1,4 @@
-### Hi there! 🖐 I am Eunbin Choi (also called by echoiing 💛) 
+### Hi there! I am echoiing.
 - 👨‍💻 I'm currently studying on the neural network for images.
 - 👨‍🏫 I'm currently teaching Java, SQL, HTML/CSS, JS, JSP/Servlet, Spring, Python.
 - 🥈 I'm majored in image processing and developed an stabilization algorithm for drone-projected images.

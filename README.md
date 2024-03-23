@@ -1,9 +1,11 @@
 ### Hi there! I am echoiing.
-- 👨‍💻 I'm currently studying the neural network for images.
-- 👨‍🏫 I taught Java, Spring, and SQL in a K-digital training course.
-- 🥈 I have got master's degree in image processing and developed a stabilization algorithm for drone-projected images.
+- 👥 I'm friendly and outgoing.
+- 📚 I'm interested in computer vision and computational photography.
+- 🎓 I obtained a master's degree in SKKU, developing a stabilization algorithm for drone-projected images.
+- 🖊️ I taught Java, Spring, and SQL in a K-digital training course.
 - 🏆 I published 7 papers (5 for domestic conferences, 2 for international conferences).
-- 🏆 I registered 1 patent and 2 software licenses. 
+- 🏆 I registered 1 patent and 2 software licenses.
+- 🌊 I like a challenging activity like scuba diving. 
 - 💬 Email: qwertyuiop7823@gmail.com
 - 💬 Email: eunbin544@kakao.com
 
